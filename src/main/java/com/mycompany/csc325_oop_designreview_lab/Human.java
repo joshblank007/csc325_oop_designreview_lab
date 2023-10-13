@@ -31,7 +31,6 @@ public abstract class Human {
 
 	public abstract void setAddress(String address);
 
-
 	public short getAge() {
 		return age;
 	}
